@@ -7,7 +7,7 @@ This repository implements an integrated framework that combines:
 - Initialization and running RMS simulation in PowerFactory environment.
 - Extracting and evaluating transient, voltage, frequency stability (TVFS) indices. 
  
-![Overview Figure](Flowchart.png)
+![Flowchart](Flowchart.png)
 
 ## Requirement:
 
