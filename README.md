@@ -1,6 +1,6 @@
 # Python_Automated_Dynamic_Modelling_of_Cascading_Failures
 
-Source code accompanying the paper “Python Automated Dynamic Modelling of Cascading Failures for DIgSILENT PowerFactory and Power System Resiliency Assessment” submitted to: IEEE WCCI 2026.
+Source code accompanying the paper “Python Automated Dynamic Modelling of Cascading Failures for DIgSILENT PowerFactory and Power System Resiliency Assessment” submitted to: CONICIETI III 2026.
 This repository implements an integrated framework that combines:
 
 - Addition of controllers to .pfd system.  
